@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSharpHomeWork2Cats/1.0.0": {
+        "runtime": {
+          "CSharpHomeWork2Cats.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpHomeWork2Cats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

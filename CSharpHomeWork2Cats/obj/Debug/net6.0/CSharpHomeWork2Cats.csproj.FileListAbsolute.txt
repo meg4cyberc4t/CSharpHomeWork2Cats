@@ -1,0 +1,15 @@
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.csproj.AssemblyReference.cache
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.AssemblyInfoInputs.cache
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.AssemblyInfo.cs
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.csproj.CoreCompileInputs.cache
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/bin/Debug/net6.0/CSharpHomeWork2Cats
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/bin/Debug/net6.0/CSharpHomeWork2Cats.deps.json
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/bin/Debug/net6.0/CSharpHomeWork2Cats.runtimeconfig.json
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/bin/Debug/net6.0/CSharpHomeWork2Cats.dll
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/bin/Debug/net6.0/CSharpHomeWork2Cats.pdb
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.dll
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/refint/CSharpHomeWork2Cats.dll
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.pdb
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/CSharpHomeWork2Cats.genruntimeconfig.cache
+/Users/megacybercat/Yandex.Disk.localized/Projects/CSharpHomeWork2Cats/CSharpHomeWork2Cats/obj/Debug/net6.0/ref/CSharpHomeWork2Cats.dll
